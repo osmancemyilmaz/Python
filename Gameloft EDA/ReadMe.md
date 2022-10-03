@@ -1,3 +1,5 @@
+<span style="font-size:18px;">[Link](https://www.kaggle.com/code/osmancemyilmaz/eda-on-gameloft-games) for the notebook</span>
+
 ## EDA on Gameloft Games
 
 <span style="font-size:18px;">Michel Guillemot, a co-founder of Ubisoft, founded Gameloft SE in December 1999, a French video game publisher with headquarters in Paris. The company publishes games with a particular focus on the mobile games market and runs 18 development teams globally ([Wikipedia](https://en.wikipedia.org/wiki/Gameloft)).</span> 
