@@ -1,4 +1,4 @@
-<span style="font-size:18px;">[Link](https://www.kaggle.com/code/osmancemyilmaz/eda-on-gameloft-games) for the notebook</span>
+<span style="font-size:18px;">[Link](https://www.kaggle.com/code/osmancemyilmaz/eda-on-gameloft-games) for the Kaggle notebook</span>
 
 ## EDA on Gameloft Games
 
