@@ -1,4 +1,4 @@
-<span style="font-size:18px;">[Link](https://www.kaggle.com/code/osmancemyilmaz/eda-on-sales-data) for the notebook</span>
+<span style="font-size:18px;">[Link](https://www.kaggle.com/code/osmancemyilmaz/eda-on-sales-data) for the Kaggle notebook</span>
 
 
 ## EDA on Sales Data
