@@ -1,4 +1,4 @@
-## The weather data for Izmir for 60 years 
+## 60 years of weather data for Izmir  
 Data was provided from Open-Meteo API. Link for Open-Meteo : <a href="https://open-meteo.com/">Weather data by Open-Meteo.com</a>
 
 ### Insights
